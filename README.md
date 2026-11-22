@@ -16,3 +16,6 @@ CPU cores: 8
 ```
 
 The exact output depends on your machine.
+
+## Notes
+Basic system information utility.

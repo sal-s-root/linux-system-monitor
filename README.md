@@ -19,3 +19,7 @@ The exact output depends on your machine.
 
 ## Notes
 Basic system information utility.
+
+## Project history
+
+See [history and scope](HISTORY.md) for the correction of earlier synthetic dates.
